@@ -28,8 +28,8 @@ export default defineConfig({
         theme_color: "#ffffff",
         background_color: "#ffffff",
         display: "standalone",
-        scope: "/",
-        start_url: "/",
+        scope: "/analytics-agency/", // Обновлен scope
+        start_url: "/analytics-agency/", // Обновлен start_url
         orientation: "portrait",
         icons: [
           {
